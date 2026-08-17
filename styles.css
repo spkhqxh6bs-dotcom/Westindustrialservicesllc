@@ -109,11 +109,11 @@ button, input, select, textarea { font: inherit; }
   background: radial-gradient(circle at 30% 30%, rgba(255,195,169,.34), rgba(237,117,75,.08) 62%, transparent 63%);
   transform: rotate(28deg);
 }
-.hero-grid { position: relative; z-index: 1; min-height: 720px; display: grid; grid-template-columns: 1.28fr .72fr; align-items: center; gap: clamp(2.5rem, 7vw, 6rem); padding-block: 6.5rem; }
+.hero-grid { position: relative; z-index: 1; min-height: 640px; display: grid; grid-template-columns: 1.28fr .72fr; align-items: center; gap: clamp(2.5rem, 7vw, 6rem); padding-block: 6.5rem; }
 .hero h1 {
   max-width: 820px;
   color: var(--cream);
-  font-size: clamp(3rem, 4.2vw, 4.25rem);
+  font-size: clamp(2.75rem, 3.7vw, 3.8rem);
   text-wrap: balance;
 }
 .hero h1::first-line { color: var(--peach); }
