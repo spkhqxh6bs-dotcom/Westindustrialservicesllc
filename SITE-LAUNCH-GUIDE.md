@@ -21,7 +21,7 @@ Domain availability can change at any time. Complete the purchase before adding 
 
 ## Activate the apostille form
 
-The website uses FormSubmit to deliver form entries to `westindustrialservicesllc@gmail.com`.
+The website uses FormSubmit to deliver form entries to `christopher@westindustrialservicesllc.com`.
 
 1. After the updated site is live, open `apostille-request.html`.
 2. Submit one test request using your own information.
